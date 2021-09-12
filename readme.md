@@ -21,7 +21,7 @@ Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <p>NEVER STOP LEARNING</p>
   <img align="right" alt="launch_base"width="200px" height = "150px" src="https://64.media.tumblr.com/249d2d9ef0f0753cc622f8dcd3ced2ca/tumblr_mr2jkcYhi11rjz8tjo1_500.gif">
 </div>
   
