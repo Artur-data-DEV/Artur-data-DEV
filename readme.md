@@ -3,7 +3,7 @@
 Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
 
 - 🔭 Estou trabalhando atualmente com Infraestrutura de TI;
-- 🌱 Estudando ecossistema de Data Enginnering & Desenvolvimento WEB 🔙🔚 com NodeJS e 🔜🔚 com Javascript/Typescript e React ⚛️;
+- 🌱 Estudando ecossistema de Data Enginnering & Desenvolvimento WEB 🔙🔚 com NodeJS e front-end com Javascript/Typescript e React ⚛️;
 - 👯 Estou procurando empregos como Intern de desenvolvimento WEB ou Data Enginnering; 🧐💻
 - 🤔 Estou procurando por desenvolvimento profissional e novos desafios! 🔎✨
 - 💬 Me pergunte sobre o poder da informação!!!  💪💪
