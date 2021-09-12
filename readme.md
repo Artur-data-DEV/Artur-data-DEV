@@ -7,9 +7,7 @@ Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
 - 👯 Estou procurando empregos como Intern de desenvolvimento WEB ou Data Enginnering; 🧐💻
 - 🤔 Estou procurando por desenvolvimento profissional e novos desafios! 🔎✨
 - 💬 Me pergunte sobre o poder da informação!!!  💪💪
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Me manda um "Oi!": arturamposba@gmail.com. 📧⚡
 
 
  <div>
