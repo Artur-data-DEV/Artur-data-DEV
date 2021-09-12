@@ -14,7 +14,7 @@ Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
 
  <div>
   <a href="https://github.com/Artur-data-DEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-data-DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-data-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-data-DEV&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
