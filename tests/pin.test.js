@@ -54,7 +54,7 @@ describe("Test /api/pin", () => {
     expect(res.send).toBeCalledWith(renderRepoCard(data_repo.repository));
   });
 
-  it("should get the query options", async () => {
+  it("should get the query option", async () => {
     const req = {
       query: {
         username: "anuraghazra",
