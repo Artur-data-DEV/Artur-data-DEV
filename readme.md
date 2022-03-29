@@ -3,8 +3,8 @@
 Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
 
 - 🔭 Estou trabalhando atualmente como Desenvolvedor Javascript Fullstack;
-- 🌱 Estudando Desenvolvimento WEB 🔙🔚 com NodeJS e front-end com Javascript/Typescript e React ⚛️;
-- 👯 Estou procurando empregos de desenvolvimento WEB; 🧐💻
+- 🌱 Estudando Next Js
+- 👯 Estou procurando freelas como desenvolvedor de sites. 🧐💻
 - 🤔 Estou procurando por desenvolvimento profissional e novos desafios! 🔎✨
 - 💬 Me pergunte sobre o poder da informação!!!  💪💪
 - 📫 Me manda um "Oi!": arturamposba@gmail.com. 📧⚡
