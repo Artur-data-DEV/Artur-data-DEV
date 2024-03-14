@@ -7,7 +7,7 @@ Meu nome é Artur, sou um dev 🇧🇷 apaixonado por aprender  🎓❤️🔥
 - 👯 Estou procurando freelas como desenvolvedor de sites. 🧐💻
 - 🤔 Estou procurando por desenvolvimento profissional e novos desafios! 🔎✨
 - 💬 Me pergunte sobre o poder da informação!!!  💪💪
-- 📫 Me manda um "Oi!": arturamposba@gmail.com. 📧⚡
+- 📫 Me manda um "Oi!": arturamposba99@gmail.com. 📧⚡
 
 
  <div>
